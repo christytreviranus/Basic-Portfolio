@@ -45,10 +45,10 @@ h3 {
     color: teal;
 }
 
-img {
+#meimg {
     padding-left: 30px;
     float: left;
-    margin: 20px 20px 20px 0px;
+    margin: 20px 20px 0px 0px;
 }
 
 .about-text {
@@ -58,4 +58,5 @@ img {
 
 #aboutpara {
     padding-left: 30px;
+    padding-right: 30px;
 }
