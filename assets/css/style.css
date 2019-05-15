@@ -10,12 +10,13 @@ body {
     color: white;
     background: teal;
     padding: 20px 20px;
+    margin-bottom: 0;
 }
 
 #navlinks {
     float: right;
     position: relative;
-    padding: 20px 0px;
+    padding: 36px  0px 20px 0px;
 
 }
 
@@ -31,8 +32,30 @@ footer {
     width: 960px;
     height: 50px;
     background: grey;
+    text-align: center;
 }
 
+hr {
+    max-width: 900px;
+}
 
-    
+h3 {
+    padding-top: 20px;
+    padding-left: 30px;
+    color: teal;
+}
+
+img {
+    padding-left: 30px;
+    float: left;
+    margin: 20px 20px 20px 0px;
+}
+
+.about-text {
+    float: left;
+    left: 200px;
+}
+
+#aboutpara {
+    padding-left: 30px;
 }
