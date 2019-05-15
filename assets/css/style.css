@@ -60,3 +60,20 @@ h3 {
     padding-left: 30px;
     padding-right: 30px;
 }
+
+.portfolio {
+    background: white;
+    height: 375px;
+    clear: both;
+}
+
+.image-grid {
+    max-width: 900px;
+    margin: 20px 20px 20px 20px;
+    float: left;
+    display: inline-block;
+    position: relative;
+    right: -20px;
+    left: 5px;
+    padding-right: 5px;
+    padding-bottom: 15px;
