@@ -8,7 +8,7 @@ body {
     float: left;
     position: relative;
     color: white;
-    background: teal;
+    background: #4aaaa5;
     padding: 20px 20px;
     margin-bottom: 0;
 }
@@ -29,7 +29,7 @@ body {
 
 footer {
     position: fixed;
-    border-top: 5px solid teal;
+    border-top: 5px solid #4aaaa5;
     width: 960px;
     height: 50px;
     background: grey;
@@ -43,7 +43,7 @@ hr {
 h3 {
     padding-top: 20px;
     padding-left: 30px;
-    color: teal;
+    color: #4aaaa5;
 }
 
 #meimg {
@@ -113,4 +113,16 @@ form {
     display: inline-block;
     position: relative;
     left: 30px;
+}
+
+button {
+    margin-bottom: 20px;
+    padding: 5px 20px;
+    float: right;
+    background-color: #4aaaa5;
+    color: white;
+}
+
+input {
+    margin-bottom: 10px;
 }
